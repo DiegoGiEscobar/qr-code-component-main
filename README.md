@@ -75,7 +75,7 @@ Nesse projeto envolvendo HTML e CSS, aprendi conceitos importantes. Através do 
 
 ### Desenvolvimento contínuo
 
-Pretendo continuar focado em construir um conhecimento sólido nessas limguagens. Ainda há muitos conceitos importantes para serem desenvolvidos. Todos os dias são gradativamente adicionados ao meu repertório de ferramentas.
+Pretendo continuar focado em construir um conhecimento sólido nessas linguagens. Ainda há muitos conceitos importantes para serem desenvolvidos. Todos os dias são gradativamente adicionados ao meu repertório de ferramentas.
 
 ### Recursos úteis
 
